@@ -23,7 +23,7 @@ This project is built using the following technologies:
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
+## Prerequisites
 
 Ensure you have Python 3.x installed, along with the following packages:
 - OpenCV
